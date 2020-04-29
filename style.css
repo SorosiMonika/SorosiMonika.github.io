@@ -1,0 +1,10 @@
+img{height:330px;width:75%}
+div{display:flex;justify-content:center;position:relative;}
+header{position:absolute;text-align:left;;margin-top:150px;font-size:25px;font-family: 'Abril Fatface', cursive;color:#222;}
+.szöveg{white-space:pre-line;margin-left:200px;margin-right:200px}
+.kockás{list-style-type:square}
+blockquote{height:150px;width:900px;background-color:grey;font-size:28px;color:white;text-align:center;
+}
+h1, h2,h4,h5,blockquote{font-family: 'Abril Fatface', cursive;}
+h1,h2,h3,h4,h5{color:#222}
+footer{border-top:2px solid black}
